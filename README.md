@@ -9,7 +9,7 @@ I am a Software Developer, Project Manager and Cyber Security enthusiast. I love
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
  
 <p align="center">
-<img align="right" alt="" src="https://github.com/elregalo/d3m0n-533d/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="" src="https://github.com/d3m0n-533d/demon-seed/blob/main/coding.gif?raw=true" width="408" height="318" />
 </p>
 
 **Talking about Personal Stuffs:**
