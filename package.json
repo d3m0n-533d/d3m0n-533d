@@ -1,0 +1,25 @@
+{
+  "name": "d3m0n-533d",
+  "version": "1.0.0",
+  "description": "my portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3m0n-533d/d3m0n-533d.git"
+  },
+  "keywords": [
+    "d3m0n-533d",
+    "portfolio",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "D3m0n 533d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3m0n-533d/d3m0n-533d/issues"
+  },
+  "homepage": "https://github.com/d3m0n-533d/d3m0n-533d#readme"
+}
