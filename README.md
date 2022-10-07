@@ -7,31 +7,29 @@
 I am a Software Developer, Project Manager and Cyber Security enthusiast. I love programming, and listening to music more of a downer.
 
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
- 
+
 <p align="center">
 <img align="right" alt="" src="https://github.com/d3m0n-533d/demon-seed/blob/main/coding.gif?raw=true" width="408" height="318" />
 </p>
 
 **Talking about Personal Stuffs:**
+1. 💼 Software Developer and Project Manager at [Afridek](https://afridek.com/)
+2. 👨🏻‍💻 I’m currently working on a a eComemrce REST API
+3. 🚀 I’m currently learning C++, C, Linux, JavaScript, Python, Project Management and Cyber Security
+4. 💬 Ask me about anything, I am happy to help. [Email](@d3m0n.533d@protonmail.com)</p>
 
-- 💼 Software Developer and Project Manager at [Afridek](https://afridek.com/)
-- 👨🏻‍💻 I’m currently working on a a eComemrce REST API
-- 🚀 I’m currently learning C++, C, Linux, JavaScript, Python, Project Management and Cyber Security
-- 💬 Ask me about anything, I am happy to help. [Email](@gmail.com)
-
-</br>
 
 **Web Development:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
 
-**Languages:** 
+**Languages:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="20" height="20"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="20" height="20"/>
 
 **Database:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/>
@@ -41,7 +39,7 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" height="20"/>
-          
+
 **Tools:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20" height="20"/>
@@ -51,16 +49,6 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="20" height="20"/>
-          
-📊 **My Skills:**
-
-```text
-JavaScript   ████████████████████░░░░░   79.58 %
-NodeJs       ██████████████████████▒░░   89 %
-ExpressJs    ████████████████████░░░░░   70%
-C            ███████░░░░░░░░░░░░░░░░░░   45%
-C++          ████░░░░░░░░░░░░░░░░░░░░░   25%
-```
 
 📈 **My GitHub Stats:**
 
