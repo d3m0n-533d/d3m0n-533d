@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=d3m0n-533d.d3m0n-533d)
 
-I am a Software Developer, Project Manager and Cyber Security enthusiast. I love programming, and listening to music more of a downer.
+I am a Software Developer, Project Manager and Cyber-security enthusiast. I love programming, and listening to music more of a downer.
 
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
@@ -14,10 +14,9 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 
 **Talking about Personal Stuffs:**
 1. 💼 Software Developer and Project Manager at [Afridek](https://afridek.com/)
-2. 👨🏻‍💻 I’m currently working on a a eComemrce REST API
-3. 🚀 I’m currently learning C++, C, Linux, JavaScript, Python, Project Management and Cyber Security
+2. 👨🏻‍💻 I’m currently working on a a eComemrce REST API [Stacked](https://d3m0n-533d/stacked)
+3. 🚀 I’m currently learning C++, C, Linux, JavaScript, Python, Project Management and Cyber-security
 4. 💬 Ask me about anything, I am happy to help. [Email](@d3m0n.533d@protonmail.com)</p>
-
 
 **Web Development:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="20" height="20"/>
