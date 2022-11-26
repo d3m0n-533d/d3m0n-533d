@@ -1,4 +1,4 @@
-### Hola amigo, I'm <a href="https://github.com/d3m0n-533d" target="_blank">D3M0N 533D</a>
+### Hola amigo, I'm <a href="https://github.com/d3m0n-533d" target="_blank">Moobi Kabelo</a>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/d3m0n-533d/)
 
@@ -15,9 +15,9 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 **Talking about Personal Stuffs:**
 
 - 💼 Software Developer and Project Manager at [Afridek](https://afridek.com/)
-- 👨🏻‍💻 I’m currently working on a a eComemrce REST API
+- 👨🏻‍💻 I’m currently working on [Vitrox](https://github.com/d3m0n-533d/vitrox)
 - 🚀 I’m currently learning C++, C, Linux, JavaScript, Python, Project Management and Cyber Security
-- 💬 Ask me about anything, I am happy to help. [Email](@gmail.com)
+- 💬 Ask me about anything, I am happy to help. [Email](giftmoobi@gmail.com)
 
 </br>
 
@@ -55,11 +55,11 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 📊 **My Skills:**
 
 ```text
-JavaScript   ████████████████████░░░░░   79.58 %
-NodeJs       ██████████████████████▒░░   89 %
-ExpressJs    ████████████████████░░░░░   70%
-C            ███████░░░░░░░░░░░░░░░░░░   45%
-C++          ████░░░░░░░░░░░░░░░░░░░░░   25%
+JavaScript   ████████████████░░░░░░░░░  56 %
+NodeJs       █████████████████░░░░░░▒░  65%
+ExpressJs    █████████████████░░░░░░░░  65%
+C            ███████░░░░░░░░░░░░░░░░░░  45%
+VB.NET       ████░░░░░░░░░░░░░░░░░░░░░   25%
 ```
 
 📈 **My GitHub Stats:**
