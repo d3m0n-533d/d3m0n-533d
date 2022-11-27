@@ -17,6 +17,13 @@
     "url": "https://github.com/d3m0n-533d/d3m0n-533d/issues"
   },
   "homepage": "https://github.com/d3m0n-533d/d3m0n-533d#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.0"
+  },
   "dependencies": {
     "compression": "^1.7.4",
     "dotenv": "^16.0.3",
