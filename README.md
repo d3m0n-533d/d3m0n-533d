@@ -63,8 +63,7 @@ VB.NET       ████░░░░░░░░░░░░░░░░░░�
 ```
 
 📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3m0n-533d&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3m0n-533d&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<div>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3m0n-533d&theme=default" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3m0n-533d&theme=default"/>
+</div>
