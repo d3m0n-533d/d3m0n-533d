@@ -1,6 +1,8 @@
 ### Hola amigo, I'm <a href="https://github.com/d3m0n-533d" target="_blank">Moobi Kabelo</a>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/d3m0n-533d/)
+![Uploading anarchy.gif…]()
+
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=d3m0n-533d.d3m0n-533d)
 
@@ -9,14 +11,14 @@ I am a Software Developer, Project Manager and Cyber Security enthusiast. I love
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
  
 <p align="center">
-<img align="right" alt="" src="https://github.com/d3m0n-533d/demon-seed/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="" src="https://user-images.githubusercontent.com/80452137/211575083-4aeb8811-2e2a-4f20-a7ac-904a9dc4f80f.gif?raw=true" width="350" height="450" />
 </p>
 
 **Talking about Personal Stuffs:**
 
 - 💼 Software Developer and Project Manager at [Afridek](https://afridek.com/)
-- 👨🏻‍💻 I’m currently working on [Vitrox.js](https://github.com/Afridek/vitrox.js)
-- 🚀 I’m currently learning C++, C, Linux, JavaScript, Python, Project Management and Cyber Security
+- 👨🏻‍💻 I’m currently working on [nucleus-SDK](https://github.com/d3m0n-533d/nucleus-sdk)
+- 🚀 I’m currently learning C, Linux, JavaScript, Python, Project Management and Cyber Security
 - 💬 Ask me about anything, I am happy to help. [Email](giftmoobi@gmail.com)
 
 </br>
