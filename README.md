@@ -63,7 +63,7 @@ VB.NET       ████░░░░░░░░░░░░░░░░░░�
 ```
 
 📈 **My GitHub Stats:**
-<div>
+<div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3m0n-533d&theme=default" />
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3m0n-533d&theme=default"/>
 </div>
