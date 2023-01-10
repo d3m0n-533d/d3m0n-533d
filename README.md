@@ -1,8 +1,6 @@
 ### Hola amigo, I'm <a href="https://github.com/d3m0n-533d" target="_blank">Moobi Kabelo</a>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/d3m0n-533d/)
-![Uploading anarchy.gif…]()
-
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=d3m0n-533d.d3m0n-533d)
 
