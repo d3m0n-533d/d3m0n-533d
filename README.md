@@ -17,7 +17,7 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 **Talking about Personal Stuffs:**
 
 - 💼 Software Developer and Project Manager at [Afridek](https://afridek.com/)
-- 👨🏻‍💻 I’m currently working on [nucleus-SDK](https://github.com/d3m0n-533d/nucleus-sdk)
+- 👨🏻‍💻 I’m currently working on [Nucleus-SDK](https://github.com/d3m0n-533d/nucleus-sdk)
 - 🚀 I’m currently learning C, Linux, JavaScript, Python, Project Management and Cyber Security
 - 💬 Ask me about anything, I am happy to help. [Email](giftmoobi@gmail.com)
 
